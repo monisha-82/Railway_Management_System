@@ -28,8 +28,8 @@ A **Railway Management System** built with **Node.js, Express.js, and MySQL** th
 ### **Step 1: Clone the Repository**
 
 ```sh
-git clone
-cd
+git clone https://github.com/monisha-82/Railway_Management_System.git
+cd Railway_Management_System
 ```
 
 ### **Step 2: Install Dependencies**
